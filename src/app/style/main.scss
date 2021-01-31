@@ -1,0 +1,17 @@
+#main {
+  background-color: #222327;
+  height: 100vh;
+  color: aliceblue;
+
+  .led-strand {
+    margin-bottom: 10px;
+  }
+
+  .pixel {
+    border: 1px solid gray;
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    margin: 3px;
+  }
+}
